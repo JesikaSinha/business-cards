@@ -1,7 +1,5 @@
 Business cards configurator (PHP).
 
-GitHub (share with client): https://github.com/JesikaSinha/business-cards
-
 Written answers (all assignment questions): ASSIGNMENT.txt
 
 Run locally with XAMPP: http://localhost/shopify/index.php

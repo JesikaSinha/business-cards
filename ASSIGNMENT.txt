@@ -7,11 +7,6 @@ https://github.com/JesikaSinha/business-cards
 Answers file:
 https://github.com/JesikaSinha/business-cards/blob/main/ASSIGNMENT.txt
 
-Product page (local XAMPP):
-http://localhost/shopify/index.php
-
-This repo is the submission: PHP product page, schema, bonus SQL/PHP, and the written parts below.
-
 
 SCENARIO (from the brief)
 -------------------------
